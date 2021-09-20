@@ -37,3 +37,5 @@ cacheSolve <- function(x, ...) {
 	x$setinv(inv)
 	inv 	##return a matrix that is inverse of 'x'
 }
+
+## these functions can be run into the console by sourcing the script file or by copying this piece of code to run.
